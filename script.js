@@ -1,4 +1,4 @@
-const yesBtn = document.querySelector(".yes-btn");
+const Iya bangett😍😍😍Btn = document.querySelector(".Iya bangett😍😍😍-btn");
 const noBtn = document.querySelector(".no-btn");
 const question = document.querySelector(".question");
 const gif = document.querySelector(".gif");
