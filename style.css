@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: "Indie Flower", serif;
+    font-family: "Indie Flower", helvetica;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -57,25 +57,25 @@ button:focus {
     outline: none;
 }
 
-.yes-btn {
+.-btn {
     background-color: #4caf50;
     color: white;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
-.yes-btn:hover {
+.Nggak tuh 😜😜-btn:hover {
     background-color: #45a049;
     transform: scale(1.05);
 }
 
-.no-btn {
+.Nggak tuh 😜😜-btn {
     position: absolute;
     background-color: #ff4d4d;
     color: white;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
-.no-btn:hover {
+.Nggak tuh 😜😜-btn:hover {
     background-color: #e43e3e;
     transform: scale(1.05);
 }
